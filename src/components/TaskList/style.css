@@ -1,0 +1,44 @@
+.lista {
+    margin: 30px; 
+    padding: 20px; 
+    background-color: white;
+    border: 1px solid blue;
+    border-radius: 20px;
+
+  }
+  
+  .lista h1 {
+    color: blue;
+  }
+  
+  .lista p {
+    color: blue;
+    font-weight: bold;
+  }
+  
+  
+  .lista .task-item {
+    background-color: white;
+    border: 1px solid rgb(130, 130, 252);
+    padding: 10px;
+    margin: 5px 0;
+  }
+  
+  .lista .task-item:hover {
+    background-color: rgb(0, 75, 100);
+    border: 1px solid darkblue;
+  }
+  
+
+  .lista {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid lightgray;
+    background-color: #f9f9f9;
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    margin-left: 0; 
+    margin-right: 0; 
+    border: 2px solid blue; 
+  }
+  

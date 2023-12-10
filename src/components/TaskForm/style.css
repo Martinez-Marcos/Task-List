@@ -1,0 +1,15 @@
+.form {
+    display: flex;
+    align-items: center;
+    margin: 30px; 
+    padding: 20px; 
+    background-color: white;
+    border: 1px solid blue;
+    border-radius: 20px;  
+  }
+  
+  .form input {
+    flex-grow: 1;
+    padding: 8px;
+    margin-right: 10px;
+  }

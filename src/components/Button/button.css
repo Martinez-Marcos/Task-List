@@ -1,0 +1,14 @@
+.button {
+    background-color: white;
+    color: blue;
+    padding: 10px 20px; 
+    border: 1px solid blue; 
+    cursor: pointer; 
+    font-weight: bold;
+  }
+  
+  .button:hover {
+    background-color: lightblue; 
+    color: darkblue; 
+    
+  }
